@@ -4797,6 +4797,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 116.84) (xy 158.75 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01121b71-f26d-4042-9a94-988e5595dab6")
+	)
+	(wire
+		(pts
 			(xy 229.87 46.99) (xy 242.57 46.99)
 		)
 		(stroke
@@ -5097,7 +5107,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 105.41) (xy 158.75 110.49)
+			(xy 158.75 105.41) (xy 158.75 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5137,7 +5147,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 95.25) (xy 151.13 95.25)
+			(xy 158.75 95.25) (xy 139.7 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5157,7 +5167,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 97.79) (xy 151.13 97.79)
+			(xy 158.75 97.79) (xy 139.7 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6346,7 +6356,7 @@
 		(uuid "aa21f8e9-3b27-4e16-900d-32ea56b9de40")
 	)
 	(label "CAN1_TX"
-		(at 151.13 95.25 180)
+		(at 139.7 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6556,7 +6566,7 @@
 		(uuid "f40a86d8-9309-413c-a361-4a447750768d")
 	)
 	(label "CAN1_RX"
-		(at 151.13 97.79 180)
+		(at 139.7 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8562,7 +8572,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 110.49 0)
+		(at 158.75 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8571,7 +8581,7 @@
 		(fields_autoplaced yes)
 		(uuid "4d9cbbe4-74be-447b-bcd0-c167ef47b6a9")
 		(property "Reference" "#PWR040"
-			(at 158.75 116.84 0)
+			(at 158.75 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8580,7 +8590,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 158.75 115.57 0)
+			(at 158.75 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8588,7 +8598,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 110.49 0)
+			(at 158.75 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8597,7 +8607,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 110.49 0)
+			(at 158.75 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8606,7 +8616,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.75 110.49 0)
+			(at 158.75 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9066,6 +9076,229 @@
 			(project "6S_BMS"
 				(path "/22235745-c803-43e1-a7e4-b86ded892fce"
 					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_JLCPCB-Resistors:0603,10kΩ")
+		(at 158.75 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57cd1a84-4b54-42fd-8a17-fbf3d436b3af")
+		(property "Reference" "R1"
+			(at 161.29 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 158.75 113.03 90)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:R_0603"
+			(at 156.972 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stock" "51181774"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.004USD"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Process" "SMT"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Attrition Qty" "10"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Class" "Basic Component"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Resistors,Chip Resistor - Surface Mount"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "0603WAF1002T5E"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "10kΩ"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power(Watts)" "100mW"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Thick Film Resistors"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Overload Voltage (Max)" "75V"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature Range" "-55°C~+155°C"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "±100ppm/°C"
+			(at 158.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6644073c-0d82-4e00-82a7-f567a7753265")
+		)
+		(pin "1"
+			(uuid "b691b0d9-6a3b-471b-a082-e53e3a946e5c")
+		)
+		(instances
+			(project ""
+				(path "/22235745-c803-43e1-a7e4-b86ded892fce"
+					(reference "R1")
 					(unit 1)
 				)
 			)
