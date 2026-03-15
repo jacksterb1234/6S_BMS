@@ -610,6 +610,12 @@
         },
         {
           "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Part",
           "name": "Part",
           "show": false
@@ -729,7 +735,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "C:/Users/jacks/Documents/6S_BMS/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -744,6 +750,10 @@
     [
       "22235745-c803-43e1-a7e4-b86ded892fce",
       "Root"
+    ],
+    [
+      "4981c6d0-9058-4951-a59e-91a8040ab9a0",
+      "CAN"
     ]
   ],
   "text_variables": {}

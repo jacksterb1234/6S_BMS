@@ -3,4 +3,6 @@
   (lib (name "BQ76")(type "KiCad")(uri "${KIPRJMOD}/ul_BQ76925RGER/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "TCAN")(type "KiCad")(uri "${KIPRJMOD}/ul_TCAN3404DRBRQ1/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "ZXTP")(type "KiCad")(uri "${KIPRJMOD}/ZXTP25040DFHTA/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "UCC12")(type "KiCad")(uri "${KIPRJMOD}/ul_UCC12050DVE/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "DLW21")(type "KiCad")(uri "${KIPRJMOD}/ul_DLW21SN900HQ2L/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
