@@ -5383,7 +5383,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4a19988e-13b4-4075-8b7f-ca718bbbb0e1")
 		(property "Reference" "#PWR030"
 			(at 68.58 138.43 0)
@@ -5395,7 +5394,7 @@
 			)
 		)
 		(property "Value" "CAN_GND"
-			(at 71.12 133.1594 0)
+			(at 64.516 135.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6543,7 +6542,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_TVS"
+		(property "Value" "RLSD32A241LC"
 			(at 64.77 64.7699 90)
 			(effects
 				(font

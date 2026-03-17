@@ -5,4 +5,5 @@
   (lib (name "2026-03-12_01-27-55")(type "KiCad")(uri "${KIPRJMOD}/ul_TCAN3404DRBRQ1/KiCADv6/2026-03-12_01-27-55.kicad_sym")(options "")(descr ""))
   (lib (name "2026-03-14_22-01-45")(type "KiCad")(uri "${KIPRJMOD}/ul_DLW21SN900HQ2L/KiCADv6/2026-03-14_22-01-45.kicad_sym")(options "")(descr ""))
   (lib (name "2026-03-14_23-02-57")(type "KiCad")(uri "${KIPRJMOD}/ul_UCC12050DVE/KiCADv6/2026-03-14_23-02-57.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-03-15_19-12-54")(type "KiCad")(uri "${KIPRJMOD}/ul_B8B-XH-A-LF-SN-/KiCADv6/2026-03-15_19-12-54.kicad_sym")(options "")(descr ""))
 )
