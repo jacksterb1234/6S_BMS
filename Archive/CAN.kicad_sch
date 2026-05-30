@@ -5089,10 +5089,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4229c624-c65e-4606-b4c9-5f72e663ae07")
 		(property "Reference" "C25"
-			(at 47.752 127.474 0)
+			(at 48.006 128.778 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5101,7 +5100,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 47.752 129.5202 0)
+			(at 48.006 130.8242 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -5227,7 +5226,7 @@
 			)
 		)
 		(property "Voltage Rated" "10V"
-			(at 47.752 131.1882 0)
+			(at 48.006 132.4922 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -5254,7 +5253,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X5R"
-			(at 47.752 132.8562 0)
+			(at 48.006 134.1602 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -5263,7 +5262,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 47.752 134.5242 0)
+			(at 48.006 135.8282 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -6027,10 +6026,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "881de0d4-a867-49bf-81a7-939ddb0501ff")
 		(property "Reference" "C28"
-			(at 137.922 137.634 0)
+			(at 137.922 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6039,7 +6037,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 137.922 139.6802 0)
+			(at 137.922 140.9842 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -6165,7 +6163,7 @@
 			)
 		)
 		(property "Voltage Rated" "50V"
-			(at 137.922 141.3482 0)
+			(at 137.922 142.6522 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -6192,7 +6190,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X7R"
-			(at 137.922 143.0162 0)
+			(at 137.922 144.3202 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -6201,7 +6199,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 137.922 144.6842 0)
+			(at 137.922 145.9882 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -6456,7 +6454,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_JLCPCB:D_SOD-323"
 			(at 59.69 63.5 0)
 			(effects
 				(font
@@ -6648,10 +6646,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a9d65f0e-0362-4634-9494-52dd289682d7")
 		(property "Reference" "C6"
-			(at 254.762 63.974 0)
+			(at 254.762 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6660,7 +6657,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 254.762 66.0202 0)
+			(at 254.762 66.5622 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -6786,7 +6783,7 @@
 			)
 		)
 		(property "Voltage Rated" "50V"
-			(at 254.762 67.6882 0)
+			(at 254.762 68.2302 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -6813,7 +6810,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X7R"
-			(at 254.762 69.3562 0)
+			(at 254.762 69.8982 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -6822,7 +6819,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 254.762 71.0242 0)
+			(at 254.762 71.5662 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7819,10 +7816,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f092ea72-b020-46c8-ae3d-c337b6c8137c")
 		(property "Reference" "C26"
-			(at 57.912 127.474 0)
+			(at 57.912 128.7638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7831,7 +7827,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 57.912 129.5202 0)
+			(at 57.912 130.81 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7957,7 +7953,7 @@
 			)
 		)
 		(property "Voltage Rated" "50V"
-			(at 57.912 131.1882 0)
+			(at 57.912 132.478 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7984,7 +7980,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X7R"
-			(at 57.912 132.8562 0)
+			(at 57.912 134.146 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7993,7 +7989,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 57.912 134.5242 0)
+			(at 57.912 135.814 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -8111,7 +8107,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_JLCPCB:D_SOD-323"
 			(at 53.34 73.66 0)
 			(effects
 				(font
@@ -8161,10 +8157,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f9617934-c23c-4406-93db-fe839f3d38c5")
 		(property "Reference" "C27"
-			(at 125.222 137.634 0)
+			(at 125.222 139.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8173,7 +8168,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 125.222 139.6802 0)
+			(at 125.222 141.4922 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -8299,7 +8294,7 @@
 			)
 		)
 		(property "Voltage Rated" "10V"
-			(at 125.222 141.3482 0)
+			(at 125.222 143.1602 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -8326,7 +8321,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X5R"
-			(at 125.222 143.0162 0)
+			(at 125.222 144.8282 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -8335,7 +8330,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 125.222 144.6842 0)
+			(at 125.222 146.4962 0)
 			(effects
 				(font
 					(size 0.8 0.8)
